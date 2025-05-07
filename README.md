@@ -34,3 +34,17 @@ b.	Research and implement a pre-trained model such as (but not limited to) Image
 (F)	Results Summary and Discussion: Provide a written and visual summary of the results obtained from the model evaluations. Clearly present the performance metrics and any insights gained from the analysis.
 
 (G)	References: the key decisions in previous sections must be supported by evidence from the literature. Include primary research and relevant case studies.
+
+Resources:
+
+https://github.com/BIGBALLON/cifar-10-cnn
+
+https://github.com/MadryLab/cifar10_challenge
+
+https://github.com/davidcpage/cifar10-fast
+
+https://github.com/tysam-code/hlb-CIFAR10
+
+https://github.com/bitArtisan1/CIFAR10-Network-Training
+
+https://github.com/hardiksinghal02/Final-year-project
